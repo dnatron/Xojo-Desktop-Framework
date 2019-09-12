@@ -1,0 +1,40 @@
+#tag MultiImage
+Image setup1
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAAzQzpcRlhUQ19RXF9Qcm9ncmFtaW5nXEZyYW1ld29ya1xNZWRpYVxpY29cc2V0dXAucG5nAwAAAAABAAQAAAAAAQAAAAAAAAA=
+		FullPath = C:\FXTC_Q\_Programing\Framework\Media\ico\setup.png
+		PartialPath = ..\..\Media\ico\setup.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 128.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 128.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 128.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 128.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 128.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 128.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

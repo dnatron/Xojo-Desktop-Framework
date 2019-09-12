@@ -1,0 +1,40 @@
+#tag MultiImage
+Image cardmachine
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAA6QzpcRlhUQ19RXF9Qcm9ncmFtaW5nXEZyYW1ld29ya1xNZWRpYVxpY29cY2FyZC1tYWNoaW5lLnBuZwMAAAAAAQAEAAAAAAEAAAAAAAAA
+		FullPath = C:\FXTC_Q\_Programing\Framework\Media\ico\card-machine.png
+		PartialPath = ..\..\Media\ico\card-machine.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 256.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 256.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 256.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 256.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 256.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 256.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

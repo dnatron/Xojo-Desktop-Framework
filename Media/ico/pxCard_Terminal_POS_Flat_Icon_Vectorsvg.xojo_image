@@ -1,0 +1,40 @@
+#tag MultiImage
+Image pxCard_Terminal_POS_Flat_Icon_Vectorsvg
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAABaQzpcRlhUQ19RXF9Qcm9ncmFtaW5nXEZyYW1ld29ya1xNZWRpYVxpY29cMjQwcHgtQ2FyZF9UZXJtaW5hbF9QT1NfRmxhdF9JY29uX1ZlY3Rvci5zdmcucG5nAwAAAAABAAQAAAAAAQAAAAAAAAA=
+		FullPath = C:\FXTC_Q\_Programing\Framework\Media\ico\240px-Card_Terminal_POS_Flat_Icon_Vector.svg.png
+		PartialPath = ..\..\Media\ico\240px-Card_Terminal_POS_Flat_Icon_Vector.svg.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 240.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 240.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 240.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 240.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 240.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 240.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage
